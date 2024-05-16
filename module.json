@@ -19,9 +19,8 @@
   "authors": [
     {
       "name": "Steve Gilman",
-      "discord": "leidus",
-      "url": "www.sunderedblade.com",
-      "flags": {}
+      "url": "http://www.sunderedblade.com",
+      "discord": "leidus"
     }
   ],
   "packs": [
@@ -30,12 +29,12 @@
       "label": "Paladin",
       "path": "packs/paladin",
       "type": "Adventure",
+      "system": "dragonbane",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dragonbane",
-      "flags": {}
+      }
     }
-  ]
+  ],
+  "url": "https://github.com/LeidusKindraon/paladin-for-dragonbane"
 }
