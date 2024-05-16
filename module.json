@@ -36,5 +36,7 @@
       }
     }
   ],
-  "url": "https://github.com/LeidusKindraon/paladin-for-dragonbane"
+  "url": "https://github.com/LeidusKindraon/paladin-for-dragonbane",
+  "manifest": "https://raw.githubusercontent.com/LeidusKindraon/paladin-for-dragonbane/main/module.json",
+  "download": "https://github.com/LeidusKindraon/paladin-for-dragonbane/releases/download/v1.0.0/paladin-for-dragonbane-1.0.0.zip"
 }
