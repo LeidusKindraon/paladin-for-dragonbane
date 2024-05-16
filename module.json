@@ -1,0 +1,41 @@
+{
+  "id": "paladin-by-leidus-for-dragonbane",
+  "title": "Paladin by Leidus (for Dragonbane)",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "dragonbane-coreset",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Paladin profession for Dragonbane by Leidus.  Written for Dragonburn Challenge 6.",
+  "authors": [
+    {
+      "name": "Steve Gilman",
+      "discord": "leidus",
+      "url": "www.sunderedblade.com",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "paladin",
+      "label": "Paladin",
+      "path": "packs/paladin",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dragonbane",
+      "flags": {}
+    }
+  ]
+}
